@@ -9,7 +9,7 @@ typedef vector<bool> VB;
 typedef vector<VB> VVB;
 typedef pair<int,int> pii;
 int main() {
-    Amas();
+    Anas();
   int a;
   while(cin>>a){
     queue<int> q; 
